@@ -1,0 +1,33 @@
+{
+  "name": "rekk",
+  "author": "Ivan Malmberg <ivmalm@gmail.com>",
+  "keywords": [
+    "module",
+    "search",
+    "dependency",
+    "injection"
+  ],
+  "license": "ISC",
+  "version": "1.1.0",
+  "private": false,
+  "description": "Allows require(...) calls using partial paths.",
+  "main": "rekk.js",
+  "dependencies": {
+    "recursive-readdir-sync": "^1.0.6",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "6.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivanmalm/rekk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ivanmalm/rekk/issues"
+  }
+}

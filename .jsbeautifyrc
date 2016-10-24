@@ -1,0 +1,21 @@
+{
+    "html": {
+        "indent_char": "\t",
+        "indent_size": 1
+    },
+    "css": {
+        "indent_char": "\t",
+        "indent_size": 1,
+        "newline_between_rules": true,
+        "selector_separator": " ",
+        "selector_separator_newline": true
+    },
+    "js": {
+        "indent_char": "\t",
+        "indent_size": 1,
+        "break_chained_methods": false,
+        "jslint_happy": true,
+        "max_preserve_newlines": 2,
+        "space_after_anon_function": false
+    }
+}
